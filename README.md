@@ -80,8 +80,11 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 | Number |                                     Challenges                                     |                      Solutions                     |
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
-|    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
-|    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
+|    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](Advanced%20Join/SQL%20Project%20Planning.sql) |
+|    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](Advanced%20Join/Placements.sql)               |
+|    2   | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem))  | [SQL](Advanced%20Join/Symmetric%20Pairs.sql)               |
+|    2   | [Interviews](https://www.hackerrank.com/challenges/interviews/problem)             | [SQL](Advanced%20Join/Interviews.sql)               |
+|    2   | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)| [SQL](Advanced%20Join/15%20Days%20of%20Learning%20SQL.sql)               |
 
 ## References
 
